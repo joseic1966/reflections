@@ -6,3 +6,25 @@ How is the staging area different from the working directory and the repository?
 
 prepare the commit
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Move all your logical changes to stagging area and commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Nex experiments, new language
+
+How do the diagrams help you visualize the branch structure?
+
+see the commits in sequnce and reachability
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+have one single master branch with all the changes
+to understand the flow of the logic
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic may be too complicated and pron to errors
+manually gives more control to the developer
